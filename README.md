@@ -12,7 +12,7 @@ Testing: Postman, cURL
 📌 Setup Instructions
 1️⃣ Clone the Repository
 To get started, clone the project from GitHub:
-git clone https://github.com/sravansunkara/Traini8.git
+git clone https://github.com/sravansunkara/Backend_Traini8_LithinNagaDattaSravanSunkara.git
 cd Traini8
 
 2️⃣ Configure Database
